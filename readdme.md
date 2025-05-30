@@ -4,6 +4,7 @@ A simple a TODO application built with React and TypeScript.
 Users can add tasks, set priorities, frequencies, and define dependencies between tasks (e.g., Task A cannot be completed before Task B).
 
 ---
+
 ## Project Structure
 
 todo-app/
@@ -27,9 +28,9 @@ todo-app/
 │   │   └── taskUtils.ts
 │   │
 │   ├── App.tsx              # Main app component
-   ├── App.test.tsx         # Unit tests
-   ├── index.tsx            # Entry point
-   └── index.css            # Global styles
+├── App.test.tsx         # Unit tests
+├── index.tsx            # Entry point
+└── index.css            # Global styles
 
 
 ---
