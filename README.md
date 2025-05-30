@@ -7,7 +7,8 @@ Users can add tasks, set priorities, frequencies, and define dependencies betwee
 
 ## Project Structure
 
-`todo-app/
+`
+todo-app/
 │
 ├── src/               # Source code
 │   ├── components/    # Reusable UI components
@@ -30,7 +31,8 @@ Users can add tasks, set priorities, frequencies, and define dependencies betwee
 │   ├── App.tsx              # Main app component
 ├── App.test.tsx         # Unit tests
 ├── index.tsx            # Entry point
-└── index.css            # Global styles`
+└── index.css            # Global styles
+`
 
 
 ---
