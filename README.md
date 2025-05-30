@@ -14,14 +14,6 @@ Users can add tasks, set priorities, frequencies, and define dependencies betwee
 
 ---
 
-## Scripts
-
-- `npm start` — Start the development server
-- `npm test` — Run unit tests
-- `npm run build` — Build for production
-
----
-
 ## Getting Started
 
 1. Install dependencies:
@@ -34,13 +26,6 @@ npm start
 
 3. Open [http://localhost:3000](http://localhost:3000) in browser.
 
----
-
-## Testing
-
-Run all tests with:
-
-3. Open [http://localhost:3000](http://localhost:3000) in  browser.
 
 ---
 
