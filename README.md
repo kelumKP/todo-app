@@ -63,7 +63,7 @@ npm install
 
 npm start
 
-3. Open [http://localhost:3000](http://localhost:3000) in your browser.
+3. Open [http://localhost:3000](http://localhost:3000) in browser.
 
 ---
 
@@ -71,7 +71,7 @@ npm start
 
 Run all tests with:
 
-3. Open [http://localhost:3000](http://localhost:3000) in your browser.
+3. Open [http://localhost:3000](http://localhost:3000) in  browser.
 
 ---
 
